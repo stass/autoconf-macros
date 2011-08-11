@@ -1,0 +1,7 @@
+This repository provides set of useful scripts for Autoconf.
+
+ * ax_perl_ext.m4 -- Autoconf macro to fetch linker and compiler flags
+   to build Perl extensions.
+
+ * ax_ruby_ext.m4 -- Autoconf macro to fetch linker and compiler flags
+   to build Ruby extensions.
